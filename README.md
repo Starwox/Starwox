@@ -5,11 +5,7 @@
 - 📫 How to reach me : rezzoug.yannis@gmail.com
 - 📰 Or by LinkedIn: https://www.linkedin.com/in/yannis-rezzoug/
 
-## Contact ##
-
-![image]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white})
-
-![image]({![image]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white})})
+## DailyDev ##
 
 <!---
 Starwox/Starwox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
