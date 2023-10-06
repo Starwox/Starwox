@@ -11,6 +11,7 @@
 <a href="https://www.linkedin.com/in/yannis-rezzoug"> <img src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86" alt="LinkedIn"/></a>
 
 
+[![Top Langs](https://github-readme-stats-mu-eight-60.vercel.app/api/top-langs/?username=Starwox&hide=jupyter+notebook)](https://github-readme-stats-mu-eight-60.vercel.app/api/top-langs/?username=Starwoxhide=jupyter+notebook)
 <!---
 Starwox/Starwox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
