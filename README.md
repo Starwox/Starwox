@@ -1,5 +1,5 @@
 <div align="left">
-  <a href="https://app.daily.dev/Starwox"><img src="https://api.daily.dev/devcards/e95b52ed2a9c4dad9a8e31f3080b27da.png?r=8qp" width="250" alt="Rezzoug Yannis's Dev Card"/></a>
+  <a href="https://app.daily.dev/Starwox"><img src="https://api.daily.dev/devcards/e95b52ed2a9c4dad9a8e31f3080b27da.png?r=8qp" width="250" alt="Rezzoug Yannis's Dev Card" align="right"/></a>
 </div>
 
 - 👋 Hi, I’m @Starwox
