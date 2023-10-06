@@ -13,7 +13,7 @@
   - 📫 How to reach me : rezzoug.yannis@gmail.com
   - 📰 Or by LinkedIn: https://www.linkedin.com/in/yannis-rezzoug/
 
-<a href="https://app.daily.dev/Starwox"><img src="https://api.daily.dev/devcards/e95b52ed2a9c4dad9a8e31f3080b27da.png?r=8qp" width="400" alt="Rezzoug Yannis's Dev Card" align="right"/></a>
+  <a href="https://app.daily.dev/Starwox"><img src="https://api.daily.dev/devcards/e95b52ed2a9c4dad9a8e31f3080b27da.png?r=8qp" width="300" alt="Rezzoug Yannis's Dev Card" align="right"/></a>
 </div>
 <!---
 Starwox/Starwox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
