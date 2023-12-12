@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @Starwox
 - 👀 I’m interested in videos games
-- 🌱 I’m currently learning Php / Javascript
+- 🌱 I’m currently learning Salesforce Commerce Cloud
 - 💞️ I’m looking to collaborate on Symfony or ReactJS
 - 📫 How to reach me : rezzoug.yannis@gmail.com
 - 📰 Or by 
